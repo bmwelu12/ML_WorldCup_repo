@@ -12,7 +12,7 @@ Computed **before** either semifinal was played:
 - + 2026 form + fitted scale: 71.4% accuracy
 - Sequential Elo comparison: 85.7% accuracy
 - Logistic regression (leave-one-out CV): 82.1% accuracy
-- Player-continuity signal — includes a real error, caught and fixed (see notebook §9)
+- Player-continuity signal 
 - Full bracket simulation → semifinal, final, and overall champion probabilities
 
 ## Honest limitations
